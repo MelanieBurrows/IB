@@ -39,8 +39,8 @@
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.694652",
+                    "lon": "-88.140899",
                     "type": "statue",
                     "name": "Grotto of Our Lady of Lourdes",
                     "images": [
@@ -69,14 +69,14 @@
                 },
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.694312",
+                    "lon": "-88.138068",
                     "type": "statue",
                     "name": "Rite of Passage",
                     "images": [
                         "https://github.com/MelanieBurrows/IB/raw/main/docs/sample/image/Screenshot%202023-03-23%20at%209.17.54%20AM.png"
                     ],
-                    "description": "The right of passage listed on the left shows the right of passage from one social or religious status to another. Some of the most crucial examples are connested with birth, reproduction and death. These are universal and suggest that they go back many years ago. There is a superstition that if you pass through the arch before you graduate from Spring Hill that you will not graduate from Spring Hill.",
+                    "description": "The right of passage from one social or religious status to another. Some of the most crucial examples are connested with birth, reproduction and death. These are universal and suggest that they go back many years ago. There is a superstition that if you pass through the arch before you graduate from Spring Hill that you will not graduate from Spring Hill.",
                     "more": "More description, if you want",
                     "urls": [
                         "https://www.britannica.com/topic/rite-of-passage"
