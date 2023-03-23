@@ -42,16 +42,15 @@
                     "lat": "50.9",
                     "lon": "4.8",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Grotto of Our Lady of Lourdes",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
+                    "description": "This is a popular place for reflection and prayer on Spring Hill's campus. It was built in 1903 and is based on the miracle that occurred in Lourdes, France 45 years before the miracle occurred.",
+                    "more": "It is said the Virgin Mary appeared in a rose bush in France.",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.al.com/living/2012/08/spring_hill_colleges_grotto_of.html"
                     ]
                 },   
                 {
@@ -76,14 +75,12 @@
                     "type": "statue",
                     "name": "Rite of Passage",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/MelanieBurrows/IB/raw/main/docs/sample/image/Screenshot%202023-03-23%20at%209.17.54%20AM.png"
                     ],
                     "description": "The right of passage listed on the left shows the right of passage from one social or religious status to another. Some of the most crucial examples are connested with birth, reproduction and death. These are universal and suggest that they go back many years ago. There is a superstition that if you pass through the arch before you graduate from Spring Hill that you will not graduate from Spring Hill.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.britannica.com/topic/rite-of-passage"
                     ]
                 }
             ]
