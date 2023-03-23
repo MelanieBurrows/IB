@@ -23,19 +23,51 @@
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
             },
             "pois": [{
-                    "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
+                    "id": "InternationalBusiness ID",
+                    "lat": "30.693678",
+                    "lon": "-88.138174",
+                    "type": "statue",
+                    "name": "St Ignaius",
+                    "images": [
+                        "https://github.com/MelanieBurrows/IB/raw/main/docs/sample/image/Screenshot%202023-03-21%20at%208.19.46%20PM.png"
+                    ],
+                    "description": "He was the founder of the Society of Jesus and the statue has fragments from the Mamresa cave where he composed the spiritual exercises. Known for its missionary, educational, and charitable works, the Jesuit order was a leading force in the modernizing of the Roman Catholic Church.",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://www.britannica.com/biography/St-Ignatius-of-Loyola"
+                    ]
+                },
+                {
+                    "id": "uniqueID-2",
+                    "lat": "50.9",
+                    "lon": "4.8",
                     "type": "statue",
                     "name": "My Statue",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
                     "description": "One-paragraph description",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://nl.wikipedia.org/MyPoi",
+                        "https://example.org/mypoi"
+                    ]
+                },   
+                {
+                    "id": "uniqueID-2",
+                    "lat": "50.9",
+                    "lon": "4.8",
+                    "type": "statue",
+                    "name": "My Statue",
+                    "images": [
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
+                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                    ],
+                    "description": "One-paragraph description",
+                    "more": "More description, if you want",
+                    "urls": [
+                        "https://nl.wikipedia.org/MyPoi",
                         "https://example.org/mypoi"
                     ]
                 },
