@@ -44,8 +44,7 @@
                     "type": "statue",
                     "name": "Grotto of Our Lady of Lourdes",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/MelanieBurrows/IB/raw/main/docs/sample/image/Screenshot%202023-03-21%20at%207.55.55%20PM.png"
                     ],
                     "description": "This is a popular place for reflection and prayer on Spring Hill's campus. It was built in 1903 and is based on the miracle that occurred in Lourdes, France 45 years before the miracle occurred.",
                     "more": "It is said the Virgin Mary appeared in a rose bush in France.",
