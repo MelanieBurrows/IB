@@ -56,19 +56,17 @@
                 },   
                 {
                     "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
+                    "lat": "30.696398",
+                    "lon": "-88.136171",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "St. Joseph",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://github.com/MelanieBurrows/IB/raw/main/docs/sample/image/Screenshot%202023-03-21%20at%207.58.01%20PM.png"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "Donated in 1901 and Iccated in front of Skips Place this statue represents Joseph, the human father of Jesus. Saint J&seph is shown as a figure of trust and protection to the Christ Child.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://www.catholic.org/saints/saint.php?saint_id=4"
                     ]
                 },
                 {
