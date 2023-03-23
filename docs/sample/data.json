@@ -74,12 +74,12 @@
                     "lat": "50.9",
                     "lon": "4.8",
                     "type": "statue",
-                    "name": "My Statue",
+                    "name": "Rite of Passage",
                     "images": [
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
                         "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "The right of passage listed on the left shows the right of passage from one social or religious status to another. Some of the most crucial examples are connested with birth, reproduction and death. These are universal and suggest that they go back many years ago. There is a superstition that if you pass through the arch before you graduate from Spring Hill that you will not graduate from Spring Hill.",
                     "more": "More description, if you want",
                     "urls": [
                         "https://nl.wikipedia.org/MyPoi",
