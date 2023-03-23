@@ -25,7 +25,7 @@
             "pois": [{
                     "id": "InternationalBusiness ID",
                     "lat": "30.693678",
-                    "lon": "-88.138174,
+                    "lon": "-88.138174",
                     "type": "statue",
                     "name": "St Ignaius",
                     "images": [
